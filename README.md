@@ -3,7 +3,7 @@
 **`Electrical Engineering Student`**
 
 Welcome~  
-Bridging Electrical Engineering and AI, I specialize in Computer Engineering with a passion for AI/ML. As an ML Distinction Graduate from Bangkit Academy 2024 Batch 2, I’m actively building my portfolio with innovative AI/ML projects. Let’s explore AI together!
+Bridging Electrical Engineering and AI, I specialize in Computer Engineering with a passion for AI/ML. I’m still working on building my portfolio with AI/ML projects. Let’s explore AI together!
 
 ## 🐋 About Me
 🔭 __Current project__  
@@ -24,14 +24,9 @@ Let’s take a peek! → [📂 Check My CV](https://drive.google.com/file/d/1dpL
 
 🕊️ __Get to know me more!__   
 Contact:  
-<div style="display: flex; gap: 30px;">
-    <a href="https://www.linkedin.com/in/stnrliza/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg" width="125px"/>
-    </a>
-    <a href="mailto:contactsitinurhaliza@gmail.com" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="40px"/>
-    </a>
-</div>
+<a href="https://www.linkedin.com/in/stnrliza/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg" height="40px"/></a>
+<a href="mailto:contactsitinurhaliza@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="40px"/></a>
+
 <br>
 
 ## 🤖 Languages & Tools  
