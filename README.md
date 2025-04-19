@@ -75,7 +75,7 @@ In college, I struggled with programming; C and Python felt impossible to grasp.
 </details>
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw/githubusercontent.com/stnrliza/stnrliza/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stnrliza/stnrliza/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stnrliza/stnrliza/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/stnrliza/stnrliza/output/github-snake.svg" />
 </picture>
