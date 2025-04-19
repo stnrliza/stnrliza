@@ -73,3 +73,9 @@ I used to avoid programming, but somehow, I ended up loving it. Back in secondar
 
 In college, I struggled with programming; C and Python felt impossible to grasp. But then I joined the Computer and Network Laboratory, thinking it was one of the best labs in my major. Turns out, it was a turning point. Not only I learned programming in-depth, I also built connections that opened bigger opportunities. I eventually graduated from Bangkit and stepped into AI/ML. Funny how the thing I once disliked became something I enjoy the most. Can't wait to get my internship and AI/ML job soon!
 </details>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw/githubusercontent.com/stnrliza/stnrliza/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stnrliza/stnrliza/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/stnrliza/stnrliza/output/github-snake.svg" />
+</picture>
