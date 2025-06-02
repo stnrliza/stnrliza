@@ -65,6 +65,8 @@ Contact:
 
 <br>
 
+[![Liza's GitHub stats](https://github-readme-stats.vercel.app/api?username=stnrliza&theme=dracula_icons=true)](https://github.com/stnrliza/github-readme-stats)
+
 ---
 <details>
 <summary><strong>😆 TMI, My Coding Journey!</strong></summary>
