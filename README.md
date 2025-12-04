@@ -1,4 +1,4 @@
-<strong><h3>Hello World! I am Liza, an AI/ML Explorer 👋</h3></strong>
+<strong><h3>Hello World! I am Liza, an AIoT Explorer 👋</h3></strong>
 
 **`Electrical Engineering Student`**
 
@@ -7,16 +7,13 @@ Bridging Electrical Engineering and AI, I specialize in Computer Engineering wit
 
 ## 🐋 About Me
 🔭 __Current project__  
-Developing an RNN algorithm to predict blood pressure from a Photoplethysmography (PPG) sensor.  
+Developing machine learning model to predict blood pressure from a Photoplethysmography (PPG) sensor.  
 
 📚 __Current studies__  
-RAG and LLM.  
+Implementing latest trends such as LLM to my thesis: **Machine Learning–Based Decision Support System for Dentists and Patients in Secondary Caries Examination**
 
 ⭐ __Interests__  
-Computer Vision; Implementing Multimodal and Transfer Learning into a project.  
-
-📌 __Fun fact__  
-I adore doing research and creating deliverable projects that integrate AI and IoT in healthcare (but I'm still widely open to other fields).  
+Developing fully working prototypes from hardware making to machine learning deployment in biomedical engineering fields.
 
 🚀 __Curious about my journey?__  
 Let’s take a peek! → [📂 Check My CV](https://drive.google.com/file/d/1dpL0I02zSaWSkPys5yWVcGU4rIZTyCi-/view?usp=sharing)  
